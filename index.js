@@ -7,3 +7,5 @@ const server = http.createServer(
 )
 
 // listen
+
+server.listen(3000)
